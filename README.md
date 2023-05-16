@@ -1,7 +1,7 @@
 
 # Image Generator Website
 
-![Project Image](path/to/project-image.png)
+![Project Image](https://github.com/MustafaBR213/BrookyAI-Image-Generator/blob/main/Screenshot%202023-05-16%20223128.png)
 
 This is a simple website that utilizes the OpenAI API to generate images. It allows you to create unique and creative images using the power of artificial intelligence.
 
@@ -17,13 +17,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-generator.git
+[git clone https://github.com/your-username/image-generator.git](https://github.com/MustafaBR213/BrookyAI-Image-Generator.git)
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd image-generator
+cd BrookyAI-Image-Generator
 ```
 
 3. Open the `index.html` file in your preferred web browser.
